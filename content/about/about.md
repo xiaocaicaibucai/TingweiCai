@@ -2,7 +2,8 @@
 active: true
 author: admin
 headless: true
-title: 大家好！HELLO
+title: HELLO
+
 weight: 10
 widget: about
 ---
