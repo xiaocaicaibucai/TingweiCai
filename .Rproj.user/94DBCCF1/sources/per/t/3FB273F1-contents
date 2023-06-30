@@ -20,9 +20,10 @@ status:
 superuser: true
 title: Tingwei Cai (蔡廷卫)
 ---
+# __About me__
+>我是来自华中农业大学的农药学博士生，我的研究主要集中在害虫共生菌介导的杀虫剂抗性机制方向。目前我正在针对一种危害严重的水稻害虫[褐飞虱](https://www.baike.com/wikiid/8131074724681778794?view_id=2n1yi8zu9s4000)开展研究，以下是我的学习经历及出版物信息~
 
-我是来自华中农业大学的农药学博士生，我的研究主要集中在害虫共生菌介导的杀虫剂抗性机制方向。
-# __CV__
+___________
 
 ## __EDUCATION__
 
@@ -35,6 +36,8 @@ __Sep. 2015 - Jul. 2019__
 Bachelor student, Plant Protection, Huazhong Agricultural University, Wuhan, China. (Advisor: Dr. Jianhong Li)
 ________________
 ## __PUBLICATIONS__
+<font size=2> 
+
 Cai Y, Ren Z, Li C, __Cai T__, Yu C, Zeng Q, He S, Li J, Wan H*. The insecticidal activity and mechanism of tebuconazole on _Nilaparvata lugens_ (Stål). Pest Manag Sci. 2023 Apr 4. doi: 10.1002/ps.7493. Epub ahead of print. PMID: 37013938.
 
 Zhang Y#, __Cai T#__, Yuan M, Li Z, Jin R, Ren Z, Qin Y, Yu C, Cai Y, Shu R, He S, Li J, Wong ACN, Wan H*. Microbiome variation correlates with the insecticide susceptibility in different geographic strains of a significant agricultural pest, _Nilaparvata lugens_. NPJ Biofilms Microbiomes. 2023 Jan 12;9(1):2. doi: 10.1038/s41522-023-00369-5. PMID: 36635299; PMCID: PMC9837087.
@@ -66,22 +69,5 @@ Li Z, Qin Y, Jin R, Zhang Y, Ren Z,__Cai T__, Yu C, Liu Y, Cai Y, Zeng Q, Wan H,
 Zhang J, Mao K, Ren Z, Jin R, Zhang Y,__Cai T__, He S, Li J, Wan H. Odorant binding protein 3 is associated with nitenpyram and sulfoxaflor resistance in _Nilaparvata lugens_. Int J Biol Macromol. 2022, 209:1352-1358.
 
 Zeng Q#, Chang Y#, Chang X, Yue W, Ba Y, Li C, Lv H, Guo Z,__Cai T__, Ren Z, Qin Y, Zhang Y, Ma K, Li J, He S, Wan H*. CeO2 nanohybrid as a synergist for insecticide resistance management. Chem Eng J. 2022, 466:137074
-___________
-## __AWARDS & SCHOLARSHIPS__
-2021 Merit Graduate Students, Huazhong Agricultural University
 
-2020 Merit Graduate Students, Huazhong Agricultural University
-
-2017 Excellent Student Cadre, Huazhong Agricultural University
-
-2021 The First Prize for Graduate Students ($1930.6)
-
-2020 The First Prize for Graduate Students ($1379)
-
-2020 National Scholarship for Graduate Students ($2758)
-
-2019 Tutor Scholarship ($1103.2)
-
-2019 The First Prize for Graduate Students ($1379)
-
-2017 The Phoenix-tiangu Scholarship ($275.8)
+</font>
