@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include insect microbiome, microbial ecology and biodiversity.
 organizations:
 - name: 华中农业大学
   url: "http://www.hzau.edu.cn/"
@@ -21,6 +20,8 @@ superuser: true
 title: Tingwei Cai (蔡廷卫)
 ---
 # __About me__
+>I am a PhD student from Huazhong Agricultural University in China, the area I am now focusing on are the research on insecticide resistance midiated by insect symbionts.
+
 >我是来自华中农业大学的农药学博士生，我的研究主要集中在害虫共生菌介导的杀虫剂抗性机制方向。目前我正在针对一种危害严重的水稻害虫[褐飞虱](https://www.baike.com/wikiid/8131074724681778794?view_id=2n1yi8zu9s4000)开展研究，以下是我的学习经历及出版物信息~
 
 ___________
@@ -64,7 +65,7 @@ Zhang Y#, Liu C#, Jin R, Wang Y,__Cai T__, Ren Z, Ma K, He S, Lee KS, Jin BR, Li
 
 Jin R, Wang Y, He B, Zhang Y,__Cai T__, Wan H, Jin BR, Li J*. Activator protein-1 mediated _CYP6ER1_ overexpression in the clothianidin resistance of Nilaparvata lugens (Stål). Pest Manag Sci, 2021, 77:4476-4482
 
-Li Z, Qin Y, Jin R, Zhang Y, Ren Z,__Cai T__, Yu C, Liu Y, Cai Y, Zeng Q, Wan H, Li J*. Insecticide resistance monitoring in field populations of the whitebacked planthopper Sogatella furcifera (Horvath) in China, 2019–2020. Insects, 2021, 12: 1087
+Li Z, Qin Y, Jin R, Zhang Y, Ren Z,__Cai T__, Yu C, Liu Y, Cai Y, Zeng Q, Wan H, Li J*. Insecticide resistance monitoring in field populations of the whitebacked planthopper _Sogatella furcifera_ (Horvath) in China, 2019–2020. Insects, 2021, 12: 1087
 
 Zhang J, Mao K, Ren Z, Jin R, Zhang Y,__Cai T__, He S, Li J, Wan H. Odorant binding protein 3 is associated with nitenpyram and sulfoxaflor resistance in _Nilaparvata lugens_. Int J Biol Macromol. 2022, 209:1352-1358.
 
